@@ -1,7 +1,16 @@
 [
   {
     "id": 1,
-    "name": "Add your name in the body",
-    "status": true
+    "title": "Nombre del Producto",
+    "description": "Descripción del Producto",
+    "code": "Código del Producto",
+    "price": 100,
+    "status": true,
+    "stock": 20,
+    "category": "Categoría",
+    "thumbnails": [
+      "URL_de_la_imagen1",
+      "URL_de_la_imagen2"
+    ]
   }
 ]
